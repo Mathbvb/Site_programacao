@@ -1,0 +1,84 @@
+/*classes texto*/
+.tc{
+    padding-bottom: 35px;
+}
+.soo{padding-top: 30px;}
+.sm{padding-left: 80px; padding-bottom:30px}
+
+.sbs{justify-content: center; padding-bottom: 35px}
+.marcio{text-align: center;}
+.antonio{justify-content: center; align-items: center; flex-direction: row; align-content: center;}
+.aroldo{padding-top: 10px; width: 50%; margin-right: auto; margin-left: auto;}
+
+
+.pt{padding-top:56px}
+
+.titulo{
+    justify-content:center; 
+    padding-bottom: 35px; 
+    padding-top: 56px;
+}
+.enunciado{
+    padding-bottom: 30px; text-align: justify;
+}
+.sitede{font-family: "Oswald"; font-size: 76px;}
+
+/*questoes*/
+.repro{
+    background-color: red; 
+    height: 150px;
+    width: 150px;
+}
+.apro{
+    background-color: green; 
+    height: 150px;
+    width: 150px;
+}
+.recu{
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+}
+.meio {
+    margin-top: 35%;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.botao{
+    margin-top: 20px;
+}
+.imgphp{
+    text-align: center; padding-top: 30px; padding-bottom: 20px;
+}
+.pr{ color: black; text-align: center; padding-top: 10px; padding-bottom: 10px;}
+
+.q7d{ justify-content: center; padding-bottom: 30px;}
+
+.mario{padding-top: 20px;}
+
+.lote{
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: #470930;
+    padding-top: 40px;
+}
+.aaaas{justify-content: center;}
+.teto{text-align: justify;}
+
+@media screen and (max-width: 672px){
+    .sitede {font-size: 36px; padding-top: 56px;}
+    .pt{padding-top: 86px;}
+    .titulo{padding-top: 86px;}
+}
+
+.iconlistar{
+font-size: 20px;
+}
+
+.lar{width: 100%;
+    table-layout: fixed;
+    word-wrap:break-word;
+}
